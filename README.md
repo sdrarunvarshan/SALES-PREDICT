@@ -4,7 +4,8 @@
 This project performs time series forecasting on warehouse sales data using Python. It employs the Holt-Winters Exponential Smoothing model to predict future sales based on historical data. The analysis is performed using monthly sales data grouped by warehouse and visualized for better insights.
 
 ## Contributors
-- **Primary Developer:** [Your Name]
+- **Primary Developer:**  [sdrarunvarshan](https://github.com/sdrarunvarshan)
+
 - **Collaborator:** [Parimala-15](https://github.com/Parimala-15)
 
 ## Technologies Used
